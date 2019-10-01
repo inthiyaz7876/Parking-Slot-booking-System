@@ -1,0 +1,44 @@
+{
+  "signUp": [
+    {
+      "id": "1",
+      "Name": "in",
+      "EmpID": "on",
+      "Email": "on",
+      "Password": "hi",
+      "ConfPassword": "ki"
+    },
+    {
+      "Name": "17",
+      "EmpID": "hd89w",
+      "Email": "xn wui",
+      "Password": " ui",
+      "ConfPassword": " kj",
+      "id": "KqEq8Gg"
+    },
+    {
+      "Name": "Shaik",
+      "EmpID": "345081",
+      "Email": "inthu@gmail.com",
+      "Password": "Inthu@7876",
+      "ConfPassword": "Inthu@7876",
+      "id": "cCzckMW"
+    },
+    {
+      "Name": "bavajan",
+      "EmpID": "bavajan@gmail.com",
+      "Email": "bavajan@gmail.com",
+      "Password": "Bavajan",
+      "ConfPassword": "Bavajan",
+      "id": "oR5oH2g"
+    },
+    {
+      "Name": "surekha",
+      "EmpID": "surekha123@gmail.com",
+      "Email": "surekha123@gmail.com",
+      "Password": "Surekha@3739",
+      "ConfPassword": "Surekha@3739",
+      "id": "V-J_k5C"
+    }
+  ]
+}
