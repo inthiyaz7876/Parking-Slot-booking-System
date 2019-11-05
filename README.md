@@ -12,6 +12,8 @@ npm start
 open another command prompt and install json-server using npm,
 
 install json-server --- > npm install -g json-server
+
+
 start json-server --->   json-server --watch db.json -p 3002 
 
 note port number will change as menctioned in the get post methods.
